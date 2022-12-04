@@ -1,0 +1,37 @@
+body {
+        background-image:url('C:/Users/39375/Desktop/CODING CHALLENGE/background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        color: #fff;
+        position: absolute;
+        left: 30%;
+    }
+
+
+
+div  {
+        height: 25PX;
+     }  
+
+.button {
+    left: 50px;
+}
+
+.CONTAINER1 { 
+    border: 2PX solid green;
+    background-color: green;
+    width: 80%;
+}     
+
+.CONTAINER2 { 
+    border: 2PX solid rgb(255, 238, 2);
+    background-color: rgb(255, 238, 2);
+    width: 50%;
+}     
+
+.CONTAINER3 { 
+    border: 2PX solid rgb(255, 2, 2);
+    background-color: rgb(255, 2, 2);
+    width: 10%;
+}     
